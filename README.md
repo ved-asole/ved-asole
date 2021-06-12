@@ -1,23 +1,24 @@
+
 ### Hi there, I'm Ved Asole a.k.a. [GhostCoderz](https://GhostCoderz.github.io/Portfolio/) 👋
 
 ## Connect with me:<br/>
 <a href="https://GhostCoderz.github.io/Portfolio/" class="Web">
-    <img height="32" width="32" src="https://github.com/GhostCoderz/GhostCoderz/tree/master/assets/Web.png" />
+    <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/Web.png" />
 </a>
 <a href="https://en-gb.facebook.com/vedasole123">
-    <img height="32" width="32" src="https://github.com/GhostCoderz/GhostCoderz/tree/master/assets/facebook.svg" />
+    <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/facebook.svg" />
 </a>
 <a href="https://twitter.com/AsoleVed" class="twitter">
-    <img height="32" width="32" src="https://github.com/GhostCoderz/GhostCoderz/tree/master/assets/twitter.svg" />
+    <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/twitter.svg" />
 </a>
 <a href="https://in.linkedin.com/in/ved-asole-000562201" class="linkedin">
-    <img height="32" width="32" src="https://github.com/GhostCoderz/GhostCoderz/tree/master/assets/linkedin.png" />
+    <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/ved_asole/" class="instagram">
-    <img height="32" width="32" src="https://github.com/GhostCoderz/GhostCoderz/tree/master/assets/instagram.svg" />
+    <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/instagram.svg" />
 </a>
 <a href="https://codepen.io/GhostCoderz" class="codepen">
-    <img height="32" width="32" src="https://github.com/GhostCoderz/GhostCoderz/tree/master/assets/codepen.svg" />
+   <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/codepen.svg" />
 </a>
 
 <br/>
@@ -32,19 +33,22 @@
 <br/>
 
 ## Languages and Tools:  
-<code><img height="20" src="https://github.com/GhostCoderz/GhostCoderz/tree/master/assets/html5.svg"></code>
-<code><img height="20" src="https://github.com/GhostCoderz/GhostCoderz/tree/master/assets/css-3.svg"></code>
+<code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/html5.svg"></code>
+<code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/css-3.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://github.com/GhostCoderz/GhostCoderz/tree/master/assets/java.png"></code>
+<code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/php.svg"></code>
+<code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/mysql.svg"></code>
+<code><img height="30" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/java.png"></code>
 <br />  <br />
-<code><img height="20" src="https://github.com/GhostCoderz/GhostCoderz/tree/master/assets/visual-studio.png"></code>
-<code><img height="20" src="https://github.com/GhostCoderz/GhostCoderz/tree/master/assets/sublime-text.svg"></code>
+<code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/visual-studio.png"></code>
+<code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/sublime-text.svg"></code>
+<code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/xampp.png"></code>
 <br />  <br />
 
 ## Here's some Stats:
 <a href="#">
-  <img align="center" src="https://github-readme-stats.GhostCoderz.vercel.app/api?username=GhostCoderz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GhostCoderz's github stats" />
+  <img align="center" src="https://github-readme-stats.dud3-droid.vercel.app/api?username=GhostCoderz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Vignesh's github stats" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.GhostCoderz.vercel.app/api/top-langs/?username=GhostCoderz&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.dud3-droid.vercel.app/api/top-langs/?username=GhostCoderz&layout=compact&theme=material-palenight" />
 </a><br /><br />
