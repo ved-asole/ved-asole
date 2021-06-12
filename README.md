@@ -36,7 +36,6 @@
 <code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/html5.svg"></code>
 <code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/css-3.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/php.svg"></code>
 <code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/mysql.svg"></code>
 <code><img height="30" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/java.png"></code>
 <br />  <br />
