@@ -27,7 +27,7 @@
 - 🔭 I’m currently working on Own Portfolio.
 - 🌱 I’m currently learning Java and Web-Development.
 - 👯 I’m looking forward to collaborate with Creative Dev.
-- 💬 Ask me about Web-Designing [here](https://github.com/GhostCoderz/GhostCoderz/issues)
+- 💬 Ask me anything about Java [here](https://github.com/GhostCoderz/GhostCoderz/issues)
 - ⚡ Fun fact: Love to eat Chocolate while coding.
 
 <br/>
