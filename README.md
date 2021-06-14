@@ -50,3 +50,7 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.dud3-droid.vercel.app/api/top-langs/?username=GhostCoderz&layout=compact&theme=material-palenight" />
 </a><br /><br />
+
+## Contact Me:
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ved-asole-000562201" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ved-asole-000562201?trk=profile-badge">Ved Asole</a></div>
