@@ -45,7 +45,8 @@
 
 ## Here's some Stats:
 <a href="#">
-  <img align="center" src="https://github-readme-stats.dud3-droid.vercel.app/api?username=GhostCoderz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Vignesh's github stats" />
+<!--   <img align="center" src="https://github-readme-stats.dud3-droid.vercel.app/api?username=GhostCoderz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Vignesh's github stats" /> -->
+    <img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" />
 </a><br/><br/>
 <a href="#">
   <img align="center" src="https://github-readme-stats.dud3-droid.vercel.app/api/top-langs/?username=GhostCoderz&layout=compact&theme=material-palenight" />
