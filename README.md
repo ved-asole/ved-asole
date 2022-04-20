@@ -58,6 +58,9 @@
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 <code><img height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
 <code><img height="30" width="35" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
+<code><a href="https://heroku.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
+  </a></code>
 <br />  <br />
 
 ## My Stats :
