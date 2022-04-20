@@ -48,3 +48,6 @@
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 <br />  <br />
+
+My Stats :
+<img href="https://github-readme-stats.vercel.app/api?username=GhostCoderz&show_icons=true&locale=en">
