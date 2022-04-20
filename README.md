@@ -20,6 +20,9 @@
 <a href="https://codepen.io/GhostCoderz" class="codepen">
    <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/codepen.svg" />
 </a>
+<a href="https://dev.to/ghostcoderz" class="dev">
+   <img height="32" width="32" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" />
+</a>
 
 <br/>
 
