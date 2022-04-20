@@ -42,7 +42,7 @@
 <code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/mysql.svg"></code>
 <code><img height="30" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/java.png"></code>
 <code><a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img height="20" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
+    <img height="20" width="20" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
 </a></code>
 <br />  <br />
 <code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/visual-studio.png"></code>
