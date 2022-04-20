@@ -42,12 +42,3 @@
 <code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/visual-studio.png"></code>
 <code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/sublime-text.svg"></code>
 <br />  <br />
-
-## Here's some Stats:
-<a href="#">
-  <img align="center" src="https://github-readme-stats.dud3-droid.vercel.app/api?username=GhostCoderz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Vignesh's github stats" />
-</a><br/><br/>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.dud3-droid.vercel.app/api/top-langs/?username=GhostCoderz&layout=compact&theme=material-palenight" />
-</a><br /><br />
-
