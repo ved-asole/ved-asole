@@ -46,7 +46,7 @@
 </a></code>
 <code> 
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="30" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="23" height="23" />
   </a>
 </code>
     
