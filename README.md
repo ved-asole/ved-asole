@@ -52,3 +52,4 @@
 ## My Stats :
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=GhostCoderz&show_icons=true&locale=en" alt="GhostCoderz"></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GhostCoderz" alt="GhostCoderz"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GhostCoderz&show_icons=true&locale=en&layout=compact" alt="GhostCoderz"></p>
