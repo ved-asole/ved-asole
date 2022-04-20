@@ -54,7 +54,7 @@
 <code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/visual-studio.png"></code>
 <code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/sublime-text.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
+<code><img width="23" height="23" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
 <code><img width="23" height="23" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
 <code><img height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
 <code><img height="30" width="35" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
