@@ -51,7 +51,7 @@
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 <code><img height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-<code><img height="25" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
+<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
 <br />  <br />
 
 ## My Stats :
