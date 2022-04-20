@@ -51,4 +51,4 @@
 
 ## My Stats :
 <hr>
-<img height="90" href="https://github-readme-stats.vercel.app/api?username=GhostCoderz&show_icons=true&locale=en">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=GhostCoderz&show_icons=true&locale=en" alt="GhostCoderz"></p>
