@@ -1,69 +1,75 @@
+<h1 align="center">Hey there 👋, I'm Ved Asole</h1>
 
-### Hi there, I'm Ved Asole a.k.a. [GhostCoderz](https://GhostCoderz.github.io/Portfolio/) 👋
+<h1 align="center"> About me 🚀 </h1>
 
-## Connect with me:<br/>
-<a href="https://GhostCoderz.github.io/Portfolio/" class="Web">
-    <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/Web.png" />
-</a>
-<a href="https://en-gb.facebook.com/vedasole123">
-    <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/facebook.svg" />
-</a>
-<a href="https://twitter.com/AsoleVed" class="twitter">
-    <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/twitter.svg" />
-</a>
-<a href="https://in.linkedin.com/in/ved-asole-000562201" class="linkedin">
-    <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/linkedin.png" />
-</a>
-<a href="https://www.instagram.com/ved_asole/" class="instagram">
-    <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/instagram.svg" />
-</a>
-<a href="https://codepen.io/GhostCoderz" class="codepen">
-   <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/codepen.svg" />
-</a>
-<a href="https://dev.to/ghostcoderz" class="dev">
-   <img height="32" width="32" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" />
-</a>
+<h3 align="left">
 
-<br/>
+- 💻 Currently a Software Engineer [HCLTECH](https://hcltech.com/)
 
-## About Me: 
-- 🔭 I’m currently working on Own Portfolio.
-- 🌱 I’m currently learning Java and Web-Development.
-- 👯 I’m looking forward to collaborate with Creative Dev.
-- 💬 Ask me anything about Java [here](https://github.com/GhostCoderz/GhostCoderz/issues)
-- ⚡ Fun fact: Love to eat Chocolate while coding.
+- 🌱 Diving deep in **Java, Spring and Cloud Technologies (AWS)**
 
-<br/>
+- 🤝 Looking to collaborate on Project based on **Java / Spring Boot**
 
-## Languages and Tools:  
-<code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/html5.svg"></code>
-<code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/css-3.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/mysql.svg"></code>
-<code><img height="30" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/java.png"></code>
-<code><a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img height="23" width="23" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
-</a></code>
-<code> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="23" height="23" />
-  </a>
-</code>
-    
-<br />  <br />
-<code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/visual-studio.png"></code>
-<code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/sublime-text.svg"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<code><img width="23" height="23" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
-<code><img width="23" height="23" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
-<code><img height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-<code><img height="30" width="35" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
-<code><a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="23" height="25" />
-  </a></code>
-<br />  <br />
+- 👨‍💻 Checkout my portfolio at **<https://ved-asole.netlify.app> (WIP)**
 
-## My Stats :
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=GhostCoderz&show_icons=true&locale=en" alt="GhostCoderz"></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GhostCoderz" alt="GhostCoderz"></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GhostCoderz&show_icons=true&locale=en&layout=compact" alt="GhostCoderz"></p>
+- 💬 Drop yours question about **Java / Spring Boot** [here](https://github.com/ved-asole/ved-asole/issues)
+
+- 📫 How to reach me **My Socials** / **<vedasole001@gmail.com>**
+
+- 📄 Know about my experiences via [Resume](https://github.com/ved-asole/ved-asole/blob/master/Ved_Asole_Java_Developer_CV_Final.pdf)
+
+</h3>
+
+<br />
+<br />
+
+<h1 align="center">Tech Stacks 💻</h1>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;&nbsp;
+
+<!-- HTML + CSS + Frameworks -->
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+
+  
+<!-- other Tools and tech -->
+ <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  
+  <!-- DBs -->
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+ 
+<!-- cloud -->
+ <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+
+  <h1>Recent Projects ⚒️ </h1>
+<details>
+  <summary>Open to see projects</summary>
+
+[![Blog API](https://github-readme-stats.vercel.app/api/pin/?username=ved-asole&repo=blog-application-api&theme=dark)](https://github.com/ved-asole/blog-application-api)
+
+[![Blog API](https://github-readme-stats.vercel.app/api/pin/?username=ved-asole&repo=ved-veera-academy&theme=dark)](https://github.com/ved-asole/ved-veera-academy)
+
+</details>
+<h1>Github Stats  📈 </h1>
+
+<details>
+  <summary>Open to see Stats</summary>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ved-asole&layout=compact&show_icons=true&theme=dark)
+
+  ![Vignesh repo Stats](https://github-readme-stats.vercel.app/api?username=ved-asole&hide=contribs&show_icons=true&theme=dark)
+</details>
+</div>
