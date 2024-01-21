@@ -10,7 +10,7 @@
 
 - 🤝 Looking to collaborate on Project based on **Java / Spring Boot**
 
-- 👨‍💻 Checkout my portfolio at **<https://ved-asole.netlify.app> (WIP)**
+- 👨‍💻 Checkout my portfolio at **<www.vedasole.cloud> (WIP)**
 
 - 💬 Drop yours question about **Java / Spring Boot** [here](https://github.com/ved-asole/ved-asole/issues)
 
