@@ -4,7 +4,7 @@
 
 <h3 align="left">
 
-- 💻 Currently a Software Engineer [HCLTECH](https://hcltech.com/)
+- 💻 Currently, a Senior Software Engineer at [HCLTECH](https://hcltech.com/)
 
 - 🌱 Diving deep in **Java, Spring and Cloud Technologies (AWS)**
 
