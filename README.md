@@ -55,6 +55,7 @@
  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/kafka-%2300f.svg?style=for-the-badge&logo=apachekafka&logoColor=white" />&nbsp;&nbsp;&nbsp;
 
   <h1>Recent Projects ⚒️ </h1>
 <details>
